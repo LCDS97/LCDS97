@@ -4,8 +4,8 @@
 <h1> Desenvolvendor Back-End</h1>
 <p>Descobrindo um <b>novo mundo</b> através da área de <b>programação</b></p>
 
-<p>A cada dia me aperfeiçoando mais das novas tecnologias, atualmente estou procurando me focar em desenvolvimento back-end</p>
-<p>meu objetivo é chegar rumo a full stack, sou apaixonado pelo mundo da segurança cibernética</p>
+<p>A cada dia me atualizando e aprendendo sobre formas de me desafiar, sou focado em desenvolvimento back-end</p>
+<p>Estou aprendendo automatizar tarefas e criar sistemas para facilitar <strong>tudo</strong><br> em volta ao que posso enxergar e sentir que pode ser melhorado</p>
 </pre>
 
 
@@ -13,9 +13,7 @@
                                        🔭 Trabalhando na Veeva Systems como Analista de Dados 🔭
                                                Formado em Segurança da Informação 2017-2019
                                           👨‍💻👨‍💻 Ultimamente tenho focado em programar em: 👨‍💻👨‍💻
-<div class="container" style="align-items: inline">
-<img align="center" style="position: absolute; left: 55vh" src="img/node-python.jpg" width=400/><br>
-</div>
+                                                     **NODE JS** e **PYTHON**
 
 <a href="https://github.com/lcds97/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds97&langs_count=10&theme=jolly&layout=compact&include_all_commits=true" width=400/>
