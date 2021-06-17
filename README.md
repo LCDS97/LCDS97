@@ -21,6 +21,8 @@
 <a href="https://github.com/lcds97/">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcds97&show_icons=true&theme=jolly&hide=contribs,issues,stars" width=400 />
 </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LCDS97&show_icons=true&theme=radical&count_private=true)
+
 <a href="https://wakatime.com/@lcds97">
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds97&theme=jolly"  width=400/>
 </a>
