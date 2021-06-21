@@ -25,7 +25,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds97&theme=jolly"  width=400/>
 </a>
 </div>
-
+![Snake animation](https://github.com/LCDS97)
                                  
 
 
