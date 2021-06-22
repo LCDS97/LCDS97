@@ -34,7 +34,7 @@ const fundamentals = {   const databases = {    var languages = {       let tool
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcds97&show_icons=true&theme=jolly&hide=contribs,issues,stars" width=300 />
 </a> -->
 <a href="https://wakatime.com/@lcds97">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds97&theme=jolly"  width=451/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds97&theme=jolly"  width=415/>
 </a>
 
 </div>
