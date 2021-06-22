@@ -13,7 +13,7 @@ const fundamentals = {   const databases = {    var languages = {       let tool
 ```
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)![Nodejs](https://img.shields.io/badge/-Npm-black?style=flat-square&logo=Npm&logoColor=black)![Nodejs](https://img.shields.io/badge/-Yarn-blue?style=flat-square&logo=Yarn&logoColor=black)![MYSQL](https://img.shields.io/badge/MySQL-00000F?flat-squaree&logo=mysql&logoColor=white)![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 <hr>
-## Um pouco sobre mim:
+<h2> Um pouco sobre mim:</h2>
 
 
 
@@ -34,7 +34,7 @@ const fundamentals = {   const databases = {    var languages = {       let tool
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcds97&show_icons=true&theme=jolly&hide=contribs,issues,stars" width=300 />
 </a> -->
 <a href="https://wakatime.com/@lcds97">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds97&theme=jolly"  width=400/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds97&theme=jolly"  width=451/>
 </a>
 
 </div>
