@@ -1,5 +1,5 @@
 # :wave: Olá, me chamo Lucas
-## ↪️ __Linguagens__ e __Ferramentas__ ↩️ <font size=1>-➡️ _No momento estudo e uso_</font><font size=4> ⤵️</font>
+## ↪️ __Linguagens__ e __Ferramentas__   ➡️🔄<font size=1> _No momento estudo e uso_</font><font size=4> ⤵️</font>
 
 ```js
 const fundamentals = {        const databases = {           var languages = {             let tools = {
