@@ -1,20 +1,31 @@
-# Olá, me chamo Lucas
+# :wave: Olá, me chamo Lucas
+## Linguagens e Ferramentas:
+```js
+const fundamentals = {   const databases = {    var languages = {       let tools = {
+  "html", "css", "js"      "mysql", "mongodb"     "node.js", "python"     "npm", "yarn"
+}                        }                       }                       }
+                  let knowledges = {...fundamentals, ...languages, ...tools, ...databases}
 
+                            readme.post("/readme", (req, res) => {
+                                    knowledges = req.body;
+                            res.json({success: "Meus conhecimentos:"})}
+                  
+```
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)![Nodejs](https://img.shields.io/badge/-Npm-black?style=flat-square&logo=Npm&logoColor=black)![Nodejs](https://img.shields.io/badge/-Yarn-blue?style=flat-square&logo=Yarn&logoColor=black)![MYSQL](https://img.shields.io/badge/MySQL-00000F?flat-squaree&logo=mysql&logoColor=white)![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 <hr>
-<pre style="text-align: center">
-<h1> Desenvolvendor Back-End</h1>
-<p>Descobrindo um <b>novo mundo</b> através da área de <b>programação</b></p>
+## Um pouco sobre mim:
 
-<p>A cada dia me atualizando e aprendendo sobre formas de me desafiar, sou focado em desenvolvimento back-end</p>
-<p>Estou aprendendo automatizar tarefas e criar sistemas para facilitar <strong>tudo</strong><br> em volta ao que posso enxergar e sentir que pode ser melhorado</p>
-</pre>
+
 
 
 ###
-                                       🔭 Trabalhando na Veeva Systems como Analista de Dados 🔭
-                                               Formado em Segurança da Informação 2017-2019
-                                          👨‍💻👨‍💻 Ultimamente tenho focado em programar em: 👨‍💻👨‍💻
-                                                     **NODE JS** e **PYTHON**
+                              🔭 Trabalhando na Veeva Systems como Analista de Dados 🔭
+                                  🎓Formado em Segurança da Informação 2017-2019🎓
+                        🔓 Sempre me desafio, nada é melhor que a recompensa do aprendizado 🔑
+                                ❤️ Um dos meus hobbies preferidos é andar de skate 🛹
+                                      🏃 Além de sempre dar aquela jogatina 👨‍💻 
+                                  
+                                          
 
 <a href="https://github.com/lcds97/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds97&langs_count=10&theme=jolly&layout=compact&include_all_commits=true" width=400/>
