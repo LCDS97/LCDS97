@@ -1,9 +1,10 @@
 # :wave: Olá, me chamo Lucas
 ## Linguagens e Ferramentas:
 ```js
-const fundamentals = {   const databases = {    var languages = {       let tools = {
-  "html", "css", "js"      "mysql", "mongodb"     "node.js", "python"     "npm", "yarn"
-}                        }                       }                       }
+const fundamentals = {        const databases = {           var languages = {             let tools = {
+  "html", "css", "js"           "mysql", "mongodb"            "node.js", "python"           "npm", "yarn"
+}                             }                               }                             }
+                  
                   let knowledges = {...fundamentals, ...languages, ...tools, ...databases}
 
                             readme.post("/readme", (req, res) => {
