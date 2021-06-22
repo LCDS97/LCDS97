@@ -31,10 +31,10 @@ const fundamentals = {   const databases = {    var languages = {       let tool
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds97&langs_count=10&theme=jolly&layout=compact&include_all_commits=true" width=400/>
 </a>
 <a href="https://github.com/lcds97/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcds97&show_icons=true&theme=jolly&hide=contribs,issues,stars" width=400 />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcds97&show_icons=true&theme=jolly&hide=contribs,issues,stars" width=200 />
 </a>
 <a href="https://wakatime.com/@lcds97">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds97&theme=jolly"  width=400/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds97&theme=jolly"  width=200/>
 </a>
 
 </div>
