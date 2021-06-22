@@ -1,5 +1,5 @@
 # :wave: Olá, me chamo Lucas
-<span style="font-size:larger;color:red">Linguagens</span><span style="color:gray">/</span><span style="font-size:larger;color:green">Ferramentas</span><span style="color:gray">_que ultimamente estudo:</span>
+## Linguagens e Ferramentas: <font size=1>Que estudo e uso no momento</font><font size=4> ⤵️</font>
 
 ```js
 const fundamentals = {        const databases = {           var languages = {             let tools = {
