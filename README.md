@@ -20,11 +20,11 @@ readme.post("/readme", (req, res) => {
 
 
 ###
-                              🔭 Trabalhando na Veeva Systems como Analista de Dados 🔭
-                                  🎓Formado em Segurança da Informação 2017-2019🎓
-                        🔓 Sempre me desafio, nada é melhor que a recompensa do aprendizado 🔑
-                                ❤️ Um dos meus hobbies preferidos é andar de skate 🛹
-                                      🏃 Além de sempre dar aquela jogatina 👨‍💻 
+                                      🔭 Trabalhando na Veeva Systems como Analista de Dados 🔭
+                                          🎓Formado em Segurança da Informação 2017-2019🎓
+                                🔓 Sempre me desafio, nada é melhor que a recompensa do aprendizado 🔑
+                                        ❤️ Um dos meus hobbies preferidos é andar de skate 🛹
+                                              🏃 Além de sempre dar aquela jogatina 👨‍💻 
                                   
                                           
 
