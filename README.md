@@ -32,7 +32,7 @@ readme.post("/readme", (req, res) => {
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds97&langs_count=5&theme=tokyonight&layout=compact&include_all_commits=true" width=400/>
 </a>-->
 <a href="https://wakatime.com/@lcds97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds97@hide=powershell,batchfile,tex,php&theme=tokyonight&layout=compact&include_all_commits=true"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds97&hide=powershell,batchfile,tex,php&theme=tokyonight&layout=compact&include_all_commits=true"
 </a>
 <a href="https://wakatime.com/@lcds97">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds97&theme=tokyonight"/>
