@@ -30,8 +30,8 @@ readme.post("/readme", (req, res) => {
 
 <!--<a href="https://github.com/lcds97/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcds97&langs_count=5&theme=tokyonight&layout=compact&include_all_commits=true" width=400/>-->
-</a><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcds97&layout=compact&hide=powershell,batchfile,tex,php)](https://github.com/lcds97/github-readme-stats)
+</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcds97&layout=compact&hide=powershell,batchfile,tex,php&theme=tokyonight&include_all_commits=true)](https://github.com/lcds97/github-readme-stats)
 
 <a href="https://wakatime.com/@lcds97">
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds97&theme=tokyonight"  width=400/>
