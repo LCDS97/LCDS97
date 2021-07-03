@@ -1,4 +1,4 @@
-# :wave: Olá, me chamo Lucas
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Olá, me chamo Lucas</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%7C+Entusiasta+Programador+Back-End+%7C;%7C+Me+descobrindo+no+Front-End+%7C)](https://git.io/typing-svg)
 ## ↪️ __Linguagens__ e __Ferramentas__   ➡️🔄<font size=1> _No momento estudo e uso_</font><font size=4> ⤵️</font>
 
@@ -15,7 +15,7 @@ readme.post("/readme", (req, res) => {
 ```
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)![Nodejs](https://img.shields.io/badge/-Npm-black?style=flat-square&logo=Npm&logoColor=black)![Nodejs](https://img.shields.io/badge/-Yarn-blue?style=flat-square&logo=Yarn&logoColor=black)![MYSQL](https://img.shields.io/badge/MySQL-00000F?flat-squaree&logo=mysql&logoColor=white)![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 <hr>
-<h2> Um pouco sobre mim</h2>
+<h2 align="center"> Um pouco sobre mim</h2>
 
 
 
@@ -31,7 +31,7 @@ readme.post("/readme", (req, res) => {
 
 <hr>
 
-<h2> Minhas atividades </h2>
+<h2 align="center"> Minhas atividades </h2>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
