@@ -1,6 +1,6 @@
 # :wave: Olá, me chamo Lucas
 ## ↪️ __Linguagens__ e __Ferramentas__   ➡️🔄<font size=1> _No momento estudo e uso_</font><font size=4> ⤵️</font>
-![](https://komarev.com/ghpvc/?lcds97&color=green&style=plastic)
+![COUNTER](https://komarev.com/ghpvc/?lcds97&color=green&style=plastic)
 
 ```js
 const fundamentals = {        const databases = {           var languages = {             let tools = {
