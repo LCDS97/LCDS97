@@ -62,12 +62,14 @@ readme.post("/readme", (req, res) => {
 </a> -->
 
 
-#### 🤩 Repositórios com mais ⭐
+#### 🤩 Ultimos repósitorios trabalhados 🤩
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 1 | [lcds90/list-supermarket](https://github.com/lcds90/list-supermarket) | Projeto PWA feito em Angular de lista de supermercado |
-| 📦 | 1 | [LCDS97/node-js_SOLID](https://github.com/LCDS97/node-js_SOLID) | null |
+| 📦 | 0 | [LCDS97/LCDS97](https://github.com/LCDS97/LCDS97) | null |
+| 📦 | 0 | [LCDS97/curso_JavaScriptExpert](https://github.com/LCDS97/curso_JavaScriptExpert) | Treinamento de conceitos do javaScript |
+| 📦 | 1 | [LCDS97/project_jobsCalc](https://github.com/LCDS97/project_jobsCalc) | Jobs Calc from RocketSeat Discover Marathon |
+| 📦 | 0 | [LCDS97/project_googleDriveClone](https://github.com/LCDS97/project_googleDriveClone) | Semana 05 - JS Expert do Canal do Youtube Erick Wendell |
 
 
 ### :zap: Atividades recente 👀
@@ -85,6 +87,8 @@ readme.post("/readme", (req, res) => {
 ![Metrics](https://metrics.lecoq.io/LCDS97?template=classic&config.timezone=America%2FSao_Paulo)
 
 </details>
+
+<p align="center"> Ultima atualização: <b>Thursday, October 7th 2021, 9:18:18 pm UTC</b>. </p>
 
 <!--
 **LCDS97/LCDS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
