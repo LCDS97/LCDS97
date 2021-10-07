@@ -2,10 +2,11 @@ name: Publish
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '5 * * * *'
   push:
     branches:
       - master
+      - main
 
 jobs:
   publish:
