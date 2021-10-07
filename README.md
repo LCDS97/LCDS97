@@ -62,7 +62,13 @@ readme.post("/readme", (req, res) => {
 </a> -->
 
 
-                                 
+
+<details>
+  <summary>🔔 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 </summary>
+
+![Metrics](https://metrics.lecoq.io/LCDS97?template=classic&config.timezone=America%2FSao_Paulo)
+
+</details>
 
 
 <!--
