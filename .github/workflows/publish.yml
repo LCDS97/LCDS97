@@ -2,7 +2,7 @@ name: Publish
 
 on:
   schedule:
-    - cron: '5 * * * *'
+    - cron: '30 6,18 * * *'
   push:
     branches:
       - master
