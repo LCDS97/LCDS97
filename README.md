@@ -62,6 +62,22 @@ readme.post("/readme", (req, res) => {
 </a> -->
 
 
+#### 🤩 Repositórios com mais ⭐
+
+|*|Stars|Repo|Description|
+|---|---|---|---|
+| 📦 | 1 | [lcds90/list-supermarket](https://github.com/lcds90/list-supermarket) | Projeto PWA feito em Angular de lista de supermercado |
+| 📦 | 1 | [LCDS97/node-js_SOLID](https://github.com/LCDS97/node-js_SOLID) | null |
+
+
+### :zap: Atividades recente 👀
+
+
+* ⬆️ Pushed 1 commit to LCDS97/LCDS97
+* ⬆️ Pushed 1 commit to LCDS97/LCDS97
+* ⬆️ Pushed 1 commit to LCDS97/LCDS97
+* ⬆️ Pushed 1 commit to LCDS97/LCDS97
+* ⬆️ Pushed 1 commit to LCDS97/LCDS97
 
 <details>
   <summary>🔔 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 </summary>
@@ -69,7 +85,6 @@ readme.post("/readme", (req, res) => {
 ![Metrics](https://metrics.lecoq.io/LCDS97?template=classic&config.timezone=America%2FSao_Paulo)
 
 </details>
-
 
 <!--
 **LCDS97/LCDS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
