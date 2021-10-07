@@ -62,9 +62,9 @@ readme.post("/readme", (req, res) => {
 </a> -->
 
 
-#### 🤩 Repositórios com mais ⭐
+#### 🤩 Ultimos repósitorios trabalhados 🤩
 
-<!--GITHUB_REPOS:{"rows": 2, "sort": "stars"}-->
+<!--GITHUB_REPOS:{"rows": 4, "sort": "pushed"}-->
 
 
 ### :zap: Atividades recente 👀
@@ -78,6 +78,8 @@ readme.post("/readme", (req, res) => {
 ![Metrics](https://metrics.lecoq.io/LCDS97?template=classic&config.timezone=America%2FSao_Paulo)
 
 </details>
+
+<p align="center"> Ultima atualização: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>. </p>
 
 <!--
 **LCDS97/LCDS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
