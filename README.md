@@ -66,25 +66,13 @@ readme.post("/readme", (req, res) => {
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 0 | [LCDS97/LCDS97](https://github.com/LCDS97/LCDS97) | null |
-| 📦 | 0 | [LCDS97/curso_JavaScriptExpert](https://github.com/LCDS97/curso_JavaScriptExpert) | Treinamento de conceitos do javaScript |
-| 📦 | 1 | [LCDS97/project_jobsCalc](https://github.com/LCDS97/project_jobsCalc) | Jobs Calc from RocketSeat Discover Marathon |
-| 📦 | 0 | [LCDS97/project_googleDriveClone](https://github.com/LCDS97/project_googleDriveClone) | Semana 05 - JS Expert do Canal do Youtube Erick Wendell |
+| 📦 | 0 | [LL-developments/github-offensive](https://github.com/LL-developments/github-offensive) | null |
 
 
 ### :zap: Atividades recente 👀
 
 
-* ⬆️ Pushed 1 commit to LCDS97/LCDS97
-* ⬆️ Pushed 1 commit to LCDS97/LCDS97
-* ⬆️ Pushed 1 commit to LCDS97/curso_JavaScriptExpert
-* ⬆️ Pushed 1 commit to LCDS97/curso_JavaScriptExpert
-* ⬆️ Pushed 1 commit to LCDS97/LCDS97
-* ⬆️ Pushed 1 commit to LCDS97/LCDS97
-* ⬆️ Pushed 1 commit to LCDS97/LCDS97
-* ⬆️ Pushed 1 commit to LCDS97/LCDS97
-* ⬆️ Pushed 1 commit to LCDS97/LCDS97
-* ⬆️ Pushed 1 commit to LCDS97/LCDS97
+
 
 <details>
   <summary>🔔 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 </summary>
@@ -93,7 +81,7 @@ readme.post("/readme", (req, res) => {
 
 </details>
 
-<p align="center"> Ultima atualização: <b>Saturday, October 9th 2021, 10:37:21 pm UTC</b>. </p>
+<p align="center"> Ultima atualização: <b>Saturday, October 9th 2021, 11:22:50 pm UTC</b>. </p>
 
 <!--
 **LCDS97/LCDS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
