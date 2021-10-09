@@ -24,6 +24,14 @@ jobs:
         username: LCDS97
         template: "TEMPLATE.md"
         feed: "FEEDS.json"
+        
+    - name:  LL Developments Generate README.md
+      uses: actions-js/profile-readme@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        username: LL-developments
+        template: "TEMPLATE.md"
+        feed: "FEEDS.json"
       
     - name: Commit & Push changes
       uses: actions-js/push@master
