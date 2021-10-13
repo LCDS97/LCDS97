@@ -66,8 +66,8 @@ readme.post("/readme", (req, res) => {
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 0 | [LCDS97/project_dashboardEstudos](https://github.com/LCDS97/project_dashboardEstudos) | null |
 | 📦 | 0 | [LCDS97/LCDS97](https://github.com/LCDS97/LCDS97) | null |
+| 📦 | 0 | [LCDS97/project_dashboardEstudos](https://github.com/LCDS97/project_dashboardEstudos) | null |
 | 📦 | 0 | [LCDS97/training_AppIdeas](https://github.com/LCDS97/training_AppIdeas) | Repository to training my skills coding |
 | 📦 | 0 | [LCDS97/curso_JavaScriptExpert](https://github.com/LCDS97/curso_JavaScriptExpert) | Treinamento de conceitos do javaScript |
 
@@ -93,7 +93,7 @@ readme.post("/readme", (req, res) => {
 
 </details>
 
-<p align="center"> Ultima atualização: <b>Wednesday, October 13th 2021, 2:36:12 am UTC</b>. </p>
+<p align="center"> Ultima atualização: <b>Wednesday, October 13th 2021, 3:24:25 am UTC</b>. </p>
 
 <!--
 **LCDS97/LCDS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
