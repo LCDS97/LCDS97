@@ -93,7 +93,7 @@ readme.post("/readme", (req, res) => {
 
 </details>
 
-<p align="center"> Ultima atualização: <b>Thursday, October 14th 2021, 8:26:55 am UTC</b>. </p>
+<p align="center"> Ultima atualização: <b>Thursday, October 14th 2021, 9:22:37 am UTC</b>. </p>
 
 <!--
 **LCDS97/LCDS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
