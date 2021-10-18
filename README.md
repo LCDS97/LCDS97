@@ -66,8 +66,8 @@ readme.post("/readme", (req, res) => {
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 0 | [LCDS97/scraping_Puppeteer](https://github.com/LCDS97/scraping_Puppeteer) | Web Scraping Tutorial with JS using Puppeteer Library |
 | 📦 | 0 | [LCDS97/LCDS97](https://github.com/LCDS97/LCDS97) | null |
+| 📦 | 0 | [LCDS97/scraping_Puppeteer](https://github.com/LCDS97/scraping_Puppeteer) | Web Scraping Tutorial with JS using Puppeteer Library |
 | 📦 | 0 | [LCDS97/project_dashboardEstudos](https://github.com/LCDS97/project_dashboardEstudos) | null |
 | 📦 | 0 | [LCDS97/training_AppIdeas](https://github.com/LCDS97/training_AppIdeas) | Repository to training my skills coding |
 
@@ -93,7 +93,7 @@ readme.post("/readme", (req, res) => {
 
 </details>
 
-<p align="center"> Ultima atualização: <b>Sunday, October 17th 2021, 11:23:18 pm UTC</b>. </p>
+<p align="center"> Ultima atualização: <b>Monday, October 18th 2021, 1:19:48 am UTC</b>. </p>
 
 <!--
 **LCDS97/LCDS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
