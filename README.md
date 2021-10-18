@@ -75,6 +75,7 @@ readme.post("/readme", (req, res) => {
 ### :zap: Atividades recente 👀
 
 
+* ⬆️ Pushed 1 commit to LCDS97/scraping_Puppeteer
 * ⬆️ Pushed 1 commit to LCDS97/project_dashboardEstudos
 * ⬆️ Pushed 1 commit to LCDS97/project_dashboardEstudos
 * ⬆️ Pushed 1 commit to LCDS97/training_AppIdeas
@@ -84,7 +85,6 @@ readme.post("/readme", (req, res) => {
 * ⬆️ Pushed 1 commit to LCDS97/LCDS97
 * ⬆️ Pushed 1 commit to LCDS97/LCDS97
 * ⬆️ Pushed 1 commit to LCDS97/LCDS97
-* ⬆️ Pushed 1 commit to LCDS97/curso_JavaScriptExpert
 
 <details>
   <summary>🔔 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 </summary>
@@ -93,7 +93,7 @@ readme.post("/readme", (req, res) => {
 
 </details>
 
-<p align="center"> Ultima atualização: <b>Monday, October 18th 2021, 1:19:48 am UTC</b>. </p>
+<p align="center"> Ultima atualização: <b>Monday, October 18th 2021, 2:39:00 am UTC</b>. </p>
 
 <!--
 **LCDS97/LCDS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
