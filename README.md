@@ -78,11 +78,11 @@ readme.post("/readme", (req, res) => {
 * ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
 * ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
 * ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
+* ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
 * ⬆️ Pushed 1 commit to LCDS97/scraping_Puppeteer
 * ⬆️ Pushed 1 commit to LCDS97/project_dashboardEstudos
 * ⬆️ Pushed 1 commit to LCDS97/project_dashboardEstudos
 * ⬆️ Pushed 1 commit to LCDS97/training_AppIdeas
-* ⬆️ Pushed 1 commit to LCDS97/LCDS97
 * ⬆️ Pushed 1 commit to LCDS97/LCDS97
 * ⬆️ Pushed 1 commit to LCDS97/LCDS97
 
@@ -93,7 +93,7 @@ readme.post("/readme", (req, res) => {
 
 </details>
 
-<p align="center"> Ultima atualização: <b>Wednesday, October 20th 2021, 4:31:01 am UTC</b>. </p>
+<p align="center"> Ultima atualização: <b>Wednesday, October 20th 2021, 5:21:05 am UTC</b>. </p>
 
 <!--
 **LCDS97/LCDS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
