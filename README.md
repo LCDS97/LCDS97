@@ -75,6 +75,8 @@ readme.post("/readme", (req, res) => {
 ### :zap: Atividades recente 👀
 
 
+* 💪 Opened PR #1 in LCDS97/project_NLW-Heat
+* ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
 * ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
 * ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
 * ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
@@ -83,8 +85,6 @@ readme.post("/readme", (req, res) => {
 * ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
 * ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
 * ⬆️ Pushed 1 commit to LCDS97/scraping_Puppeteer
-* ⬆️ Pushed 1 commit to LCDS97/project_dashboardEstudos
-* ⬆️ Pushed 1 commit to LCDS97/project_dashboardEstudos
 
 <details>
   <summary>🔔 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 </summary>
@@ -93,7 +93,7 @@ readme.post("/readme", (req, res) => {
 
 </details>
 
-<p align="center"> Ultima atualização: <b>Thursday, October 21st 2021, 11:23:22 pm UTC</b>. </p>
+<p align="center"> Ultima atualização: <b>Friday, October 22nd 2021, 1:25:32 am UTC</b>. </p>
 
 <!--
 **LCDS97/LCDS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
