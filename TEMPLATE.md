@@ -64,7 +64,7 @@ readme.post("/readme", (req, res) => {
 
 #### 🤩 Ultimos repósitorios trabalhados 🤩
 
-<!--GITHUB_REPOS:{"rows": 4, "sort": "pushed"}-->
+<!--GITHUB_REPOS:{"rows": 4, "sort": "created"}-->
 
 
 ### :zap: Atividades recente 👀
