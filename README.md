@@ -66,15 +66,18 @@ readme.post("/readme", (req, res) => {
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 0 | [LCDS97/LCDS97](https://github.com/LCDS97/LCDS97) | null |
 | 📦 | 0 | [LCDS97/project_NLW-Heat](https://github.com/LCDS97/project_NLW-Heat) | Semana NLW Heat 2021 |
 | 📦 | 0 | [LCDS97/scraping_Puppeteer](https://github.com/LCDS97/scraping_Puppeteer) | Web Scraping Tutorial with JS using Puppeteer Library |
-| 📦 | 0 | [LCDS97/project_dashboardEstudos](https://github.com/LCDS97/project_dashboardEstudos) | null |
+| 📦 | 1 | [LCDS97/project_jobsCalc](https://github.com/LCDS97/project_jobsCalc) | Jobs Calc from RocketSeat Discover Marathon |
+| 📦 | 0 | [LCDS97/training_AppIdeas](https://github.com/LCDS97/training_AppIdeas) | Repository to training my skills coding |
 
 
 ### :zap: Atividades recente 👀
 
 
+* ⬆️ Pushed 1 commit to LCDS97/LCDS97
+* ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
+* ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
 * ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
 * 💪 Opened PR #2 in LCDS97/project_NLW-Heat
 * ⬆️ Pushed 7 commits to LCDS97/project_NLW-Heat
@@ -82,9 +85,6 @@ readme.post("/readme", (req, res) => {
 * ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
 * ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
 * ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
-* ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
-* ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
-* 💪 Opened PR #1 in LCDS97/project_NLW-Heat
 
 <details>
   <summary>🔔 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 </summary>
@@ -93,7 +93,7 @@ readme.post("/readme", (req, res) => {
 
 </details>
 
-<p align="center"> Ultima atualização: <b>Saturday, October 23rd 2021, 11:19:11 am UTC</b>. </p>
+<p align="center"> Ultima atualização: <b>Saturday, October 23rd 2021, 12:35:39 pm UTC</b>. </p>
 
 <!--
 **LCDS97/LCDS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
