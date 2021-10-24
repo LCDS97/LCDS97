@@ -62,29 +62,6 @@ readme.post("/readme", (req, res) => {
 </a> -->
 
 
-#### 🤩 Ultimos repósitorios trabalhados 🤩
-
-|*|Stars|Repo|Description|
-|---|---|---|---|
-| 📦 | 0 | [LCDS97/project_NLW-Heat](https://github.com/LCDS97/project_NLW-Heat) | Semana NLW Heat 2021 |
-| 📦 | 0 | [LCDS97/scraping_Puppeteer](https://github.com/LCDS97/scraping_Puppeteer) | Web Scraping Tutorial with JS using Puppeteer Library |
-| 📦 | 1 | [LCDS97/project_jobsCalc](https://github.com/LCDS97/project_jobsCalc) | Jobs Calc from RocketSeat Discover Marathon |
-| 📦 | 0 | [LCDS97/training_AppIdeas](https://github.com/LCDS97/training_AppIdeas) | Repository to training my skills coding |
-
-
-### :zap: Atividades recente 👀
-
-
-* ⬆️ Pushed 5 commits to LCDS97/project_NLW-Heat
-* 🎉 Merged PR #3 in LCDS97/project_NLW-Heat
-* 🗣 Commented on #3 in LCDS97/project_NLW-Heat
-* ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
-* ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
-* ⬆️ Pushed 1 commit to LCDS97/project_NLW-Heat
-* 💪 Opened PR #3 in LCDS97/project_NLW-Heat
-* ⬆️ Pushed 16 commits to LCDS97/project_NLW-Heat
-* 🎉 Merged PR #2 in LCDS97/project_NLW-Heat
-* 🗣 Commented on #2 in LCDS97/project_NLW-Heat
 
 <details>
   <summary>🔔 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 </summary>
