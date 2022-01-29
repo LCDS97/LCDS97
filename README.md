@@ -1,15 +1,15 @@
 <h1 align="center"><img src="https://media.giphy.com/media/WVFWzoOoSPO26BiXuu/giphy.gif" width="50"> Olá, me chamo Lucas <img src="https://media.giphy.com/media/ReWGiCNvI4dNoE4dE7/giphy.gif" width="50"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%7C+Entusiasta+Programador+Back-End)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%7C+Me+descobrindo+no+Front-End+%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F71E&duration=3400&vCenter=true&lines=Programador+Back-end;Programador+Back-end;Programador+Back-end;De+vez+em+quando+no+Front-End+rsrs;Programador+Back-end;Programador+Back-end;Veja+meus+reposit%C3%B3rios!!!+%3A))](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2308CF98&duration=3400&vCenter=true&lines=Node.js+%C3%A9+o+meu+preferido;Aprendendo+Java+em+2022;Sempre+me+desafio+com+projetos;Alguns+dias+pra+treinar+CSS+rsrsrs;Java+vai+ser+desafiador!!!;Tamb%C3%A9m+estudo+Salesforce%2FApex;Meus+estudos+e+projetos+tudo+aqui)](https://git.io/typing-svg)
 ## ↪️ __Linguagens__ e __Ferramentas__   ➡️🔄<font size=1> _No momento estudo e uso_</font><font size=4> ⤵️</font>
 
 
 ```js
 const fundamentals = {        const databases = {           var languages = {          let tools = {
-  "html", "css", "js"           "mysql", "mongodb"            "node.js", "python"        "npm", "yarn"
+  "html", "css", "js"           "mysql", "mongodb"            "node.js", "python", "java"        "npm", "yarn"
 }                            }                               }                          }    
                   
-let extras = [ "ts", "react", "postman" ]
+let extras = [ "ts", "react", "postman", "apex" ]
 let knowledges = {...fundamentals, ...languages, ...tools, ...databases, ...extras}
 
 readme.post("/readme", (req, res) => {
@@ -18,7 +18,7 @@ readme.post("/readme", (req, res) => {
 ```
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)![Nodejs](https://img.shields.io/badge/-Npm-black?style=flat-square&logo=Npm&logoColor=black)![Nodejs](https://img.shields.io/badge/-Yarn-blue?style=flat-square&logo=Yarn&logoColor=black)![MYSQL](https://img.shields.io/badge/MySQL-00000F?flat-square&logo=mysql&logoColor=white)![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)![TYPESCRIPT](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white)![REACT](https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB)![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)![NPM](https://img.shields.io/badge/-Npm-black?style=flat-square&logo=Npm&logoColor=black)![Yarn](https://img.shields.io/badge/-Yarn-blue?style=flat-square&logo=Yarn&logoColor=black)![MYSQL](https://img.shields.io/badge/MySQL-00000F?flat-square&logo=mysql&logoColor=white)![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)![TYPESCRIPT](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white)![REACT](https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB)![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)![APEX](https://img.shields.io/badge/-Apex-blue.svg?logo=apex&logoColor=Blue)
 
 </div>
 <hr>
