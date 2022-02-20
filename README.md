@@ -19,6 +19,7 @@ readme.post("/readme", (req, res) => {
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)![NPM](https://img.shields.io/badge/-Npm-black?style=flat-square&logo=Npm&logoColor=black)![Yarn](https://img.shields.io/badge/-Yarn-blue?style=flat-square&logo=Yarn&logoColor=black)![MYSQL](https://img.shields.io/badge/MySQL-00000F?flat-square&logo=mysql&logoColor=white)![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)![TYPESCRIPT](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white)![REACT](https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB)![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)![APEX](https://img.shields.io/badge/-Apex-blue.svg?logo=apex&logoColor=Blue)
+[<h3>Total Time Coding:</h3>![wakatime](https://wakatime.com/badge/user/bff3bd5b-d006-41a8-bba0-d0a9e7b9406a.svg)](https://wakatime.com/@bff3bd5b-d006-41a8-bba0-d0a9e7b9406a)
 
 </div>
 <hr>
