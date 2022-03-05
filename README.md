@@ -70,17 +70,16 @@ readme.post("/readme", (req, res) => {
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcds97&show_icons=true&theme=jolly&hide=contribs,issues,stars" width=300 />
 </a> -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <details>
   <summary>🔔 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 </summary>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </details>
 
-<p align="center"> Ultima atualização: <b>Sunday, October 24th 2021, 1:08:16 pm UTC</b>. </p>
 
 <!--
 **LCDS97/LCDS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
