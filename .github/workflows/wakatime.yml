@@ -17,7 +17,7 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_OS: "False"
           SHOW_EDITORS: "False"
-          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_UPDATED_DATE: "True"
           IGNORED_REPOS: "LCDS97"
