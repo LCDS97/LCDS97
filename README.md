@@ -76,7 +76,7 @@ readme.post("/readme", (req, res) => {
   <summary>🔔 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-376-blue)
 
@@ -141,7 +141,7 @@ Unknown Project          6 mins              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LCDS97/LCDS97/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/03/2022 18:51:57 UTC
+ Last Updated on 10/03/2022 18:52:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
