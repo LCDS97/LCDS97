@@ -76,7 +76,7 @@ readme.post("/readme", (req, res) => {
   <summary>🔔 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -123,10 +123,17 @@ Sunday       138 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSV                      4 mins              █████████████████████████   100.0%
+JavaScript               41 mins             ████████████████████░░░░░   81.31% 
+Apex                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
+Visualforce              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.49% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 🐱‍💻 Projects: 
-Unknown Project          4 mins              █████████████████████████   100.0%
+Unknown Project          40 mins             ███████████████████░░░░░░   79.05% 
+Salesforce-Youtube_Imobil9 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
+extension-open-data      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74% 
+veeva_OpenDataExtension  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
 
 ```
 
@@ -135,7 +142,7 @@ Unknown Project          4 mins              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/LCDS97/LCDS97/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/04/2022 18:52:25 UTC
+ Last Updated on 09/04/2022 18:52:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
