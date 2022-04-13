@@ -76,7 +76,7 @@ readme.post("/readme", (req, res) => {
   <summary>🔔 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -142,7 +142,7 @@ veeva_OpenDataExtension  0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LCDS97/LCDS97/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/04/2022 18:55:00 UTC
+ Last Updated on 13/04/2022 18:53:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
