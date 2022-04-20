@@ -76,9 +76,9 @@ readme.post("/readme", (req, res) => {
   <summary>🔔 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-948%20Thousand%20lines%20of%20code-blue)
 
@@ -123,15 +123,15 @@ Sunday       138 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-XML                      2 hrs 10 mins       ███████████████████░░░░░░   77.16% 
-Apex                     36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.55% 
-Elixir                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+XML                      2 hrs 25 mins       █████████████████░░░░░░░░   69.56% 
+Apex                     51 mins             ██████░░░░░░░░░░░░░░░░░░░   24.78% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
+Elixir                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 47 mins       ████████████████████████░   98.89% 
-NLW-Heat                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
+Unknown Project          3 hrs 27 mins       ████████████████████████░   99.1% 
+NLW-Heat                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 
 ```
 
@@ -140,7 +140,7 @@ NLW-Heat                 1 min               ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LCDS97/LCDS97/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/04/2022 18:55:52 UTC
+ Last Updated on 20/04/2022 18:51:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
