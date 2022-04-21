@@ -70,6 +70,7 @@ readme.post("/readme", (req, res) => {
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lcds97&show_icons=true&theme=jolly&hide=contribs,issues,stars" width=300 />
 </a> -->
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <details>
