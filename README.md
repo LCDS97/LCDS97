@@ -156,7 +156,7 @@ Ursa Major Solar         3 mins              ░░░░░░░░░░░�
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/217k4ynpgefg5c37sxbdv5eua)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217k4ynpgefg5c37sxbdv5eua&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!--
