@@ -1,7 +1,19 @@
 <h1 align="center"><img src="https://media.giphy.com/media/WVFWzoOoSPO26BiXuu/giphy.gif" width="50"> Olá, me chamo Lucas <img src="https://media.giphy.com/media/ReWGiCNvI4dNoE4dE7/giphy.gif" width="50"></h1>
 <h3 align="center"><img src="https://img.shields.io/badge/Desenvolvedor%20Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width=300></h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2309F71E&duration=3400&vCenter=true&lines=Programador+Back-end;Programador+Back-end;Programador+Back-end;De+vez+em+quando+no+Front-End+rsrs;Programador+Back-end;Programador+Back-end;Veja+meus+reposit%C3%B3rios!!!+%3A))](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2308CF98&duration=3400&vCenter=true&lines=Node.js+%C3%A9+o+meu+preferido;Aprendendo+Java+em+2022;Sempre+me+desafio+com+projetos;Alguns+dias+pra+treinar+CSS+rsrsrs;Java+vai+ser+desafiador!!!;Tamb%C3%A9m+estudo+Salesforce%2FApex;Meus+estudos+e+projetos+tudo+aqui)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="80"/>
+  <img src="https://img.shields.io/badge/Apex%20Test-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="120"/>
+  <img src="https://img.shields.io/badge/Apex%20Trigger-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="145"/>
+  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="73"/>
+  <img src="https://img.shields.io/badge/VisualForce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="140"/>
+  <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="81"/>
+  <img src="https://img.shields.io/badge/Flow%20Builder-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="148"/>
+  <img src="https://img.shields.io/badge/Process%20Builder-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="170"/>  
+</div>
+
+<div align ="center"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&duration=4500&background=25E4FF5F&center=true&vCenter=true&lines=DESENVOLVEDOR+TRAINEE;NA+EVERYMIND"></div>
+
 ## ↪️ __Linguagens__ e __Ferramentas__   ➡️🔄<font size=1> _No momento estudo e uso_</font><font size=4> ⤵️</font>
 
 
