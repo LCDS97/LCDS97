@@ -92,7 +92,7 @@ readme.post("/readme", (req, res) => {
 
 <div align="center"><img src="https://media.giphy.com/media/3orieVe5VYqTdT16qk/giphy.gif" width="200"></div>
 <details align="center">
-  <summary>🔔 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 </summary>
+  <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2017%20mins-blue)
