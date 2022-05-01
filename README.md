@@ -30,6 +30,7 @@ readme.post("/readme", (req, res) => {
 </p>
  
 <div align="center">
+  <h3 align="center"><img src="https://media.giphy.com/media/oYnHNRKjTo1RXRo7cM/giphy.gif" width=50/> O que estou escutando agora <img src="https://media.giphy.com/media/oYnHNRKjTo1RXRo7cM/giphy.gif" style="box-reflect="left";" width=50/></h3>
     <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=217k4ynpgefg5c37sxbdv5eua&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" width=350/>
   </div>
 
