@@ -30,7 +30,7 @@ readme.post("/readme", (req, res) => {
 </p>
  
 <div align="center">
-    <img align="center" src="https://github-readme-remake.vercel.app/api/spotify" width=150/>
+    <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=217k4ynpgefg5c37sxbdv5eua&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" width=350/>
   </div>
 
 </div>
@@ -156,7 +156,6 @@ Ursa Major Solar         3 mins              ░░░░░░░░░░░�
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217k4ynpgefg5c37sxbdv5eua&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!--
