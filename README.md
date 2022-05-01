@@ -168,5 +168,5 @@ Ursa Major Solar         3 mins              ░░░░░░░░░░░�
   
 </details>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
