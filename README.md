@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="80"/>
   <img src="https://img.shields.io/badge/Apex%20Test-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="120"/>
   <img src="https://img.shields.io/badge/Apex%20Trigger-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="145"/>
-  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="73"/>
+  <!--<img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="73"/>-->
   <img src="https://img.shields.io/badge/VisualForce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="140"/>
   <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="81"/>
   <img src="https://img.shields.io/badge/Flow%20Builder-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="148"/>
