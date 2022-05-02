@@ -56,10 +56,10 @@ readme.post("/readme", (req, res) => {
 
 ###
                                       🔭 Trabalhando como Dev Salesforce Trainee na Everymind 🔭
-                                          🎓Formado em Segurança da Informação 2017-2019🎓
-                                🔓 Sempre me desafio, nada é melhor que a recompensa do aprendizado 🔑
+                                           🎓Formado em Segurança da Informação 2017-2019🎓
+                             🎓 Ensinar é a melhora forma de aprender, tanto as outros como a si mesmo 🔑
                                         ❤️ Um dos meus hobbies preferidos é andar de skate 🛹
-                                              🏃 Além de sempre dar aquela jogatina 👨‍💻 
+                                   🏃 Um desafio pessoal: Melhorar com as habilidades Front-End 👨‍💻 
                                   
                                           
 
