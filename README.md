@@ -98,9 +98,9 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-178-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-966%20Thousand%20lines%20of%20code-blue)
 
@@ -145,17 +145,17 @@ Sunday       175 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     30 hrs 10 mins      ███████████████████░░░░░░   78.74% 
-Markdown                 4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Other                    2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29% 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+Apex                     29 hrs 45 mins      ███████████████████░░░░░░   76.49% 
+Markdown                 5 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
+Other                    2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.77% 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
+HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
 
 🐱‍💻 Projects: 
-Apex-Best-Minds          32 hrs 43 mins      █████████████████████░░░░   85.38% 
-Ursa Major Solar         4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
-Unknown Project          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17% 
-TypeScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14% 
+Apex-Best-Minds          33 hrs 20 mins      █████████████████████░░░░   85.71% 
+Ursa Major Solar         4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Unknown Project          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
+TypeScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13% 
 spotify-github-profile   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 ```
@@ -165,7 +165,7 @@ spotify-github-profile   3 mins              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LCDS97/LCDS97/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/05/2022 18:56:36 UTC
+ Last Updated on 04/05/2022 18:54:36 UTC
 <!--END_SECTION:waka-->
   
   
