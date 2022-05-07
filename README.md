@@ -74,7 +74,7 @@ readme.post("/readme", (req, res) => {
   <a href="https://wakatime.com/@lcds97">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lcds97&theme=tokyonight"/>
 <a href="https://github.com/LCDS97?tab=repositories">
-    <img align="center" width="800" src="https://activity-graph.herokuapp.com/graph?username=LCDS97&theme=gotham&custom_title=Uma%20espiadinha%20de%20como%20t%C3%B4%20no%20m%C3%AAs"/>    
+    <img align="center" width="800" src="https://github-activity-graph-lcds97.herokuapp.com/graph?username=LCDS97&theme=gotham&custom_title=Uma%20espiadinha%20de%20como%20t%C3%B4%20no%20m%C3%AAs"/>    
 </a>
 
 <a href="#"><img src="https://github.com/LCDS97/LCDS97/blob/output/github-contribution-grid-snake.svg" />
