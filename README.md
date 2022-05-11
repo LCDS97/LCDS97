@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/WVFWzoOoSPO26BiXuu/giphy.gif" width="50"> Olá, me chamo Lucas <img src="https://media.giphy.com/media/ReWGiCNvI4dNoE4dE7/giphy.gif" width="50"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/WVFWzoOoSPO26BiXuu/giphy.gif" width="50"> Olá, me chamo Lucas e Bom dia Chininha <img src="https://media.giphy.com/media/ReWGiCNvI4dNoE4dE7/giphy.gif" width="50"></h1>
 <h3 align="center"><img src="https://img.shields.io/badge/Desenvolvedor%20Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width=300></h3>
 
 <div align="center">
