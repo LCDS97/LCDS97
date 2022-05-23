@@ -98,9 +98,9 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-968%20Thousand%20lines%20of%20code-blue)
 
@@ -145,15 +145,15 @@ Sunday       199 commits    ███████░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     13 hrs 43 mins      ███████████░░░░░░░░░░░░░░   43.72% 
-Markdown                 6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.3% 
-JavaScript               6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.5% 
-HTML                     2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
-Other                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.53%
+Apex                     12 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   40.39% 
+Markdown                 7 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.51% 
+JavaScript               6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64% 
+HTML                     2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.08% 
+Other                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.46%
 
 🐱‍💻 Projects: 
-Apex-Best-Minds          24 hrs 58 mins      ████████████████████░░░░░   79.54% 
-Churras-Case             6 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96% 
+Apex-Best-Minds          23 hrs 50 mins      ███████████████████░░░░░░   76.43% 
+Churras-Case             7 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   23.07% 
 listarDadosBancarios     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
 Exercicio-LWCDadosBancari2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
@@ -164,7 +164,7 @@ Exercicio-LWCDadosBancari2 mins              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LCDS97/LCDS97/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/05/2022 18:51:11 UTC
+ Last Updated on 23/05/2022 18:58:32 UTC
 <!--END_SECTION:waka-->
   
   
