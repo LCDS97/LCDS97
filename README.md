@@ -98,9 +98,9 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-962%20Thousand%20lines%20of%20code-blue)
 
@@ -108,7 +108,7 @@ readme.post("/readme", (req, res) => {
 
 > 🏆 454 Contributions in the Year 2022
  > 
-> 📦 275.4 kB Used in GitHub's Storage 
+> 📦 275.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -145,18 +145,18 @@ Sunday       197 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     9 hrs               ███████████████████░░░░░░   77.76% 
-Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
-Visualforce              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.59% 
-PowerShell               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41%
+Apex                     7 hrs 21 mins       ███████████████████░░░░░░   76.42% 
+Markdown                 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
+Visualforce              45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
+PowerShell               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81% 
+XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
 
 🐱‍💻 Projects: 
-Ursa Major Solar         7 hrs               ███████████████░░░░░░░░░░   60.55% 
-spc-hml                  2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.55% 
-nexa-qas                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
-cury-dev                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.72% 
-cury-hml                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
+Ursa Major Solar         7 hrs               ██████████████████░░░░░░░   72.9% 
+nexa-qas                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.03% 
+spc-hml                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.67% 
+cury-hml                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
+spc-dev                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
 
 ```
 
@@ -165,7 +165,7 @@ cury-hml                 14 mins             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LCDS97/LCDS97/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2022 18:54:51 UTC
+ Last Updated on 17/06/2022 18:59:31 UTC
 <!--END_SECTION:waka-->
   
   
