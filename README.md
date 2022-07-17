@@ -98,15 +98,15 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-962%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-963%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 455 Contributions in the Year 2022
+> 🏆 457 Contributions in the Year 2022
  > 
 > 📦 275.7 kB Used in GitHub's Storage 
  > 
@@ -119,22 +119,22 @@ readme.post("/readme", (req, res) => {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% 
-🌆 Daytime    154 commits    ██████░░░░░░░░░░░░░░░░░░░   24.84% 
-🌃 Evening    254 commits    ██████████░░░░░░░░░░░░░░░   40.97% 
-🌙 Night      159 commits    ██████░░░░░░░░░░░░░░░░░░░   25.65%
+🌞 Morning    53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+🌆 Daytime    156 commits    ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    254 commits    ██████████░░░░░░░░░░░░░░░   40.84% 
+🌙 Night      159 commits    ██████░░░░░░░░░░░░░░░░░░░   25.56%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.06% 
-Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.74% 
-Wednesday    63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
-Thursday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-Friday       42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.77% 
-Saturday     111 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
-Sunday       170 commits    ██████░░░░░░░░░░░░░░░░░░░   27.42%
+Monday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
+Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
+Wednesday    63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
+Thursday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
+Friday       42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.75% 
+Saturday     111 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
+Sunday       172 commits    ███████░░░░░░░░░░░░░░░░░░   27.65%
 
 ```
 
@@ -165,7 +165,7 @@ lindt-qas-retrieve       15 mins             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LCDS97/LCDS97/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/07/2022 18:53:02 UTC
+ Last Updated on 17/07/2022 18:51:44 UTC
 <!--END_SECTION:waka-->
   
   
