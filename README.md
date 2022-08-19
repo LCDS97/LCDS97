@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,7 +108,7 @@ readme.post("/readme", (req, res) => {
 
 > 🏆 477 Contributions in the Year 2022
  > 
-> 📦 277.2 kB Used in GitHub's Storage 
+> 📦 277.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -165,7 +165,7 @@ intercement-producao     1 hr 31 mins        ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LCDS97/LCDS97/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2022 18:55:32 UTC
+ Last Updated on 19/08/2022 18:57:12 UTC
 <!--END_SECTION:waka-->
   
   
