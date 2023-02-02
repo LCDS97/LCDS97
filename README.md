@@ -98,9 +98,9 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-879%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -108,7 +108,7 @@ readme.post("/readme", (req, res) => {
 
 > 🏆 8 Contributions in the Year 2023
  > 
-> 📦 297.0 kB Used in GitHub's Storage 
+> 📦 296.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -145,18 +145,18 @@ Sunday       135 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     3 hrs 41 mins       ███████████░░░░░░░░░░░░░░   47.02% 
-Other                    2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.61% 
-JavaScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
-CSV                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.62% 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
+Apex                     5 hrs 19 mins       █████████████░░░░░░░░░░░░   54.93% 
+Other                    2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   29.36% 
+JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.8% 
+CSV                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
+HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95%
 
 🐱‍💻 Projects: 
-intercement-hml          5 hrs 2 mins        ████████████████░░░░░░░░░   64.12% 
-intercement-prd          1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
-copa-stg                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.42% 
-lindt-hmlparcial         24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-Churras-Case             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37%
+intercement-hml          6 hrs 17 mins       ████████████████░░░░░░░░░   64.91% 
+intercement-prd          1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
+lindt-hmlparcial         44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
+copa-stg                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
+intercement-dev          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14%
 
 ```
 
@@ -165,7 +165,7 @@ Churras-Case             15 mins             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LCDS97/LCDS97/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2023 18:49:10 UTC
+ Last Updated on 02/02/2023 18:48:29 UTC
 <!--END_SECTION:waka-->
   
   
