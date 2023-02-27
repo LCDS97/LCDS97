@@ -106,7 +106,7 @@ readme.post("/readme", (req, res) => {
 
 **🐱 My GitHub Data** 
 
-> 📦 297.2 kB Used in GitHub's Storage 
+> 📦 297.3 kB Used in GitHub's Storage 
  > 
 > 🏆 8 Contributions in the Year 2023
  > 
@@ -162,7 +162,7 @@ copa-stg                 0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2023 18:39:01 UTC
+ Last Updated on 27/02/2023 18:44:08 UTC
 <!--END_SECTION:waka-->
   
   
