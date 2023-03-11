@@ -98,11 +98,11 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-905%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-905%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -143,18 +143,18 @@ Sunday                   113 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     2 hrs 37 mins       █████████████░░░░░░░░░░░░   53.56 % 
-Other                    1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-JavaScript               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-HTML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Apex                     3 hrs 38 mins       ████████████████░░░░░░░░░   64.84 % 
+Other                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+JavaScript               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+HTML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🐱‍💻 Projects: 
-intercement-hml          1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-salesforce_Trailhead-Ursa1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Churras-Case             59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-jbs-prd                  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-atento-dev               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+salesforce_Trailhead-Ursa1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+intercement-hml          1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Churras-Case             59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+atento-dev               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+lindt-hmlparcial         33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 ```
 
 **Timeline**
@@ -162,7 +162,7 @@ atento-dev               34 mins             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2023 18:39:16 UTC
+ Last Updated on 11/03/2023 18:37:20 UTC
 <!--END_SECTION:waka-->
   
   
