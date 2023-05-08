@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-960%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-962%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -143,10 +143,10 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     3 hrs 21 mins       ███████████████░░░░░░░░░░   59.52 % 
+Apex                     3 hrs 21 mins       ███████████████░░░░░░░░░░   59.53 % 
 JavaScript               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
 HTML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
@@ -162,7 +162,7 @@ lindt-prd                23 mins             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2023 18:36:45 UTC
+ Last Updated on 08/05/2023 18:36:52 UTC
 <!--END_SECTION:waka-->
   
   
