@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-999%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C001%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -106,7 +106,7 @@ readme.post("/readme", (req, res) => {
 
 **🐱 My GitHub Data** 
 
-> 📦 298.0 kB Used in GitHub's Storage 
+> 📦 298.1 kB Used in GitHub's Storage 
  > 
 > 🏆 16 Contributions in the Year 2023
  > 
@@ -160,7 +160,7 @@ nexa-qas                 3 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2023 18:36:36 UTC
+ Last Updated on 12/06/2023 18:37:07 UTC
 <!--END_SECTION:waka-->
   
   
