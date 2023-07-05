@@ -143,12 +143,10 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     5 mins              ███████████████████████░░   90.43 % 
-XML                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-qa-parcial               4 mins              ████████████████░░░░░░░░░   64.89 % 
-semparar-hml             2 mins              █████████░░░░░░░░░░░░░░░░   35.11 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -156,7 +154,7 @@ semparar-hml             2 mins              █████████░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2023 18:41:29 UTC
+ Last Updated on 05/07/2023 18:41:45 UTC
 <!--END_SECTION:waka-->
   
   
