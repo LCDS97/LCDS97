@@ -106,7 +106,7 @@ readme.post("/readme", (req, res) => {
 
 **🐱 My GitHub Data** 
 
-> 📦 298.1 kB Used in GitHub's Storage 
+> 📦 298.2 kB Used in GitHub's Storage 
  > 
 > 🏆 16 Contributions in the Year 2023
  > 
@@ -154,7 +154,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2023 18:39:10 UTC
+ Last Updated on 07/07/2023 18:40:09 UTC
 <!--END_SECTION:waka-->
   
   
