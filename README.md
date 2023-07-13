@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -143,10 +143,15 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Apex                     1 hr 45 mins        ████████████████████░░░░░   81.92 % 
+XML                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sem-parar-salesforce-b2c 58 mins             ███████████░░░░░░░░░░░░░░   45.23 % 
+Cury                     40 mins             ████████░░░░░░░░░░░░░░░░░   31.73 % 
+cury-qasfull2            22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+lindt-salesforce         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 ```
 
 **Timeline**
@@ -154,7 +159,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2023 18:40:32 UTC
+ Last Updated on 13/07/2023 18:40:40 UTC
 <!--END_SECTION:waka-->
   
   
