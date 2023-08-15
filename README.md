@@ -98,9 +98,9 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C044%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C046%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
@@ -143,18 +143,18 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.61 % 
-Apex                     1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-JavaScript               1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Apex                     2 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   34.43 % 
+HTML                     2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+JavaScript               1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Other                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+XML                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🐱‍💻 Projects: 
-intercement-salesforce   1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   37.30 % 
-Minutas-NovaVersoes      1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   32.68 % 
-saintgobain-hml          1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-gruposoma-qa             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-saint-gobain-salesforce  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+intercement-salesforce   2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.29 % 
+Minutas-NovaVersoes      1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+saint-gobain-salesforce  1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+saintgobain-hml          1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+gruposoma-qa             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 ```
 
 **Timeline**
@@ -162,7 +162,7 @@ saint-gobain-salesforce  5 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2023 18:36:45 UTC
+ Last Updated on 15/08/2023 18:36:50 UTC
 <!--END_SECTION:waka-->
   
   
