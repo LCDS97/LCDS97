@@ -106,7 +106,7 @@ readme.post("/readme", (req, res) => {
 
 **🐱 My GitHub Data** 
 
-> 📦 298.6 kB Used in GitHub's Storage 
+> 📦 298.5 kB Used in GitHub's Storage 
  > 
 > 🏆 16 Contributions in the Year 2023
  > 
@@ -160,7 +160,7 @@ assai-prd                14 mins             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2023 18:38:10 UTC
+ Last Updated on 03/10/2023 18:38:21 UTC
 <!--END_SECTION:waka-->
   
   
