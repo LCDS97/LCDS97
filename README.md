@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C072%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C076%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -143,10 +143,16 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     0 secs              █████████████████████████   100.00 % 
+JavaScript               1 hr 45 mins        █████████████░░░░░░░░░░░░   53.83 % 
+Visualforce              44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+HTML                     36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-assai-prd                0 secs              █████████████████████████   100.00 % 
+carrefour-dev01          2 hrs 56 mins       ██████████████████████░░░   89.78 % 
+carrefour-homol          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+assai-prd                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **Timeline**
@@ -154,7 +160,7 @@ assai-prd                0 secs              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2023 18:37:44 UTC
+ Last Updated on 10/10/2023 18:37:54 UTC
 <!--END_SECTION:waka-->
   
   
