@@ -108,8 +108,6 @@ readme.post("/readme", (req, res) => {
 
 > 📦 298.7 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -159,7 +157,7 @@ intercement-salesforce   0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2023 18:36:50 UTC
+ Last Updated on 06/11/2023 18:37:49 UTC
 <!--END_SECTION:waka-->
   
   
