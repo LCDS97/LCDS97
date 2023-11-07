@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C094%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C094%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -107,6 +107,8 @@ readme.post("/readme", (req, res) => {
 **🐱 My GitHub Data** 
 
 > 📦 298.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 16 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -141,15 +143,16 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     54 mins             ████████████░░░░░░░░░░░░░   47.86 % 
-Other                    38 mins             ████████░░░░░░░░░░░░░░░░░   33.44 % 
-HTML                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Apex                     54 mins             ███████████░░░░░░░░░░░░░░   44.41 % 
+Other                    38 mins             ████████░░░░░░░░░░░░░░░░░   30.98 % 
+HTML                     27 mins             ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-assai-qa                 1 hr 16 mins        █████████████████░░░░░░░░   66.43 % 
-assai-prd                38 mins             ████████░░░░░░░░░░░░░░░░░   33.22 % 
-intercement-salesforce   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+assai-qa                 1 hr 15 mins        ███████████████░░░░░░░░░░   61.32 % 
+assai-prd                47 mins             ██████████░░░░░░░░░░░░░░░   38.34 % 
+intercement-salesforce   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 **Timeline**
@@ -157,7 +160,7 @@ intercement-salesforce   0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2023 18:37:49 UTC
+ Last Updated on 07/11/2023 18:37:24 UTC
 <!--END_SECTION:waka-->
   
   
