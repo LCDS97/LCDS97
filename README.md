@@ -98,8 +98,6 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%201%20min-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
@@ -143,18 +141,13 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 11 mins        ██████████████░░░░░░░░░░░   54.41 % 
-Apex                     46 mins             █████████░░░░░░░░░░░░░░░░   35.20 % 
-XML                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JavaScript               19 mins             █████████████████░░░░░░░░   68.29 % 
+Apex                     8 mins              ████████░░░░░░░░░░░░░░░░░   31.18 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🐱‍💻 Projects: 
-randon-hmlparcial        1 hr 2 mins         ████████████░░░░░░░░░░░░░   47.68 % 
-intercement-salesforce   48 mins             █████████░░░░░░░░░░░░░░░░   36.86 % 
-intercement-prd          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-carrefour-homol          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Nexa                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+carrefour-homol          19 mins             █████████████████░░░░░░░░   68.82 % 
+intercement-salesforce   8 mins              ████████░░░░░░░░░░░░░░░░░   31.18 % 
 ```
 
 **Timeline**
@@ -162,7 +155,7 @@ Nexa                     0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2023 18:36:38 UTC
+ Last Updated on 22/11/2023 18:37:08 UTC
 <!--END_SECTION:waka-->
   
   
