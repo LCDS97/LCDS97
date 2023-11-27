@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -143,13 +143,15 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               19 mins             ████████████████████░░░░░   80.88 % 
-Visualforce              4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Apex                     22 mins             ██████████░░░░░░░░░░░░░░░   40.29 % 
+JavaScript               19 mins             █████████░░░░░░░░░░░░░░░░   34.68 % 
+Visualforce              13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-carrefour-homol          19 mins             ████████████████████░░░░░   81.51 % 
-wilson-sons-salesforce   4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+wilson-sons-salesforce   36 mins             ████████████████░░░░░░░░░   65.05 % 
+carrefour-homol          19 mins             █████████░░░░░░░░░░░░░░░░   34.95 % 
 ```
 
 **Timeline**
@@ -157,7 +159,7 @@ wilson-sons-salesforce   4 mins              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2023 18:36:45 UTC
+ Last Updated on 27/11/2023 18:37:27 UTC
 <!--END_SECTION:waka-->
   
   
