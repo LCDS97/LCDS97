@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -143,15 +143,16 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     22 mins             ██████████░░░░░░░░░░░░░░░   40.29 % 
-JavaScript               19 mins             █████████░░░░░░░░░░░░░░░░   34.68 % 
-Visualforce              13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Visualforce              1 hr 7 mins         ███████████░░░░░░░░░░░░░░   43.01 % 
+Apex                     50 mins             ████████░░░░░░░░░░░░░░░░░   32.37 % 
+JavaScript               37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-wilson-sons-salesforce   36 mins             ████████████████░░░░░░░░░   65.05 % 
-carrefour-homol          19 mins             █████████░░░░░░░░░░░░░░░░   34.95 % 
+wilson-sons-salesforce   1 hr 48 mins        █████████████████░░░░░░░░   69.19 % 
+intercement-salesforce   28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+carrefour-homol          19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 ```
 
 **Timeline**
@@ -159,7 +160,7 @@ carrefour-homol          19 mins             █████████░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2023 18:37:27 UTC
+ Last Updated on 28/11/2023 18:38:35 UTC
 <!--END_SECTION:waka-->
   
   
