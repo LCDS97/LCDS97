@@ -108,7 +108,7 @@ readme.post("/readme", (req, res) => {
 
 > 📦 298.8 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -162,7 +162,7 @@ spc-hml                  2 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2023 18:36:53 UTC
+ Last Updated on 01/01/2024 18:37:24 UTC
 <!--END_SECTION:waka-->
   
   
