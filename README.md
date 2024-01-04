@@ -98,9 +98,9 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C119%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
@@ -143,18 +143,17 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     2 hrs 3 mins        ███████████████████░░░░░░   77.67 % 
-Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Visualforce              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Apex                     1 hr 46 mins        █████████████████████░░░░   84.33 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Visualforce              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-intercement-salesforce   1 hr 36 mins        ███████████████░░░░░░░░░░   60.98 % 
-db-diagnostics-hml       40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-wilson-sons-salesforce   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-vli-uat                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-spc-hml                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+intercement-salesforce   1 hr 5 mins         █████████████░░░░░░░░░░░░   51.72 % 
+db-diagnostics-hml       47 mins             █████████░░░░░░░░░░░░░░░░   37.48 % 
+wilson-sons-salesforce   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+vli-uat                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 
 **Timeline**
@@ -162,7 +161,7 @@ spc-hml                  2 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2024 18:37:33 UTC
+ Last Updated on 04/01/2024 18:38:04 UTC
 <!--END_SECTION:waka-->
   
   
