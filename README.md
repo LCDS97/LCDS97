@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -143,14 +143,16 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     1 hr 2 mins         ████████████████░░░░░░░░░   63.94 % 
-Other                    34 mins             █████████░░░░░░░░░░░░░░░░   35.12 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Apex                     1 hr 37 mins        ██████████████░░░░░░░░░░░   57.01 % 
+Other                    58 mins             █████████░░░░░░░░░░░░░░░░   34.15 % 
+JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-intercement-salesforce   1 hr 30 mins        ███████████████████████░░   93.29 % 
-db-diagnostics-hml       6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+intercement-salesforce   2 hrs 39 mins       ███████████████████████░░   93.47 % 
+db-diagnostics-hml       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+intercement-prd          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 **Timeline**
@@ -158,7 +160,7 @@ db-diagnostics-hml       6 mins              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2024 18:36:50 UTC
+ Last Updated on 08/01/2024 18:38:24 UTC
 <!--END_SECTION:waka-->
   
   
