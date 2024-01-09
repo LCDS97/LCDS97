@@ -100,13 +100,13 @@ readme.post("/readme", (req, res) => {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 298.8 kB Used in GitHub's Storage 
+> 📦 298.9 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -143,16 +143,16 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     1 hr 37 mins        ██████████████░░░░░░░░░░░   57.01 % 
-Other                    58 mins             █████████░░░░░░░░░░░░░░░░   34.15 % 
-JavaScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Apex                     1 hr 58 mins        ██████████████░░░░░░░░░░░   55.04 % 
+Other                    1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+JavaScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-intercement-salesforce   2 hrs 39 mins       ███████████████████████░░   93.47 % 
-db-diagnostics-hml       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-intercement-prd          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+intercement-salesforce   3 hrs 22 mins       ███████████████████████░░   93.70 % 
+intercement-prd          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+db-diagnostics-hml       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 **Timeline**
@@ -160,7 +160,7 @@ intercement-prd          4 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2024 18:38:24 UTC
+ Last Updated on 09/01/2024 18:36:55 UTC
 <!--END_SECTION:waka-->
   
   
