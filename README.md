@@ -143,14 +143,10 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     21 mins             ████████████░░░░░░░░░░░░░   47.55 % 
-JavaScript               19 mins             ███████████░░░░░░░░░░░░░░   43.23 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-intercement-salesforce   42 mins             ████████████████████████░   94.54 % 
-intercement-prd          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -158,7 +154,7 @@ intercement-prd          2 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2024 18:37:41 UTC
+ Last Updated on 16/01/2024 18:37:56 UTC
 <!--END_SECTION:waka-->
   
   
