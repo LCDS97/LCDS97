@@ -108,6 +108,8 @@ readme.post("/readme", (req, res) => {
 
 > 📦 298.9 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -141,13 +143,11 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     37 mins             ███████████████████████░░   92.63 % 
-JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Apex                     26 mins             ███████████████████████░░   92.21 % 
+JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 
 🐱‍💻 Projects: 
-carrefour-homol          39 mins             █████████████████████████   98.32 % 
-intercement-salesforce   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+carrefour-homol          28 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -155,7 +155,7 @@ intercement-salesforce   0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2024 18:36:17 UTC
+ Last Updated on 10/02/2024 18:37:30 UTC
 <!--END_SECTION:waka-->
   
   
