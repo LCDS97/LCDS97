@@ -108,8 +108,6 @@ readme.post("/readme", (req, res) => {
 
 > 📦 299.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -155,7 +153,7 @@ carrefour-homol          28 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2024 18:37:54 UTC
+ Last Updated on 14/02/2024 18:38:12 UTC
 <!--END_SECTION:waka-->
   
   
