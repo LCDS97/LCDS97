@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -143,13 +143,14 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               13 mins             ███████████████████░░░░░░   75.17 % 
-XML                      3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Apex                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JavaScript               13 mins             █████████████░░░░░░░░░░░░   52.31 % 
+Apex                     6 mins              ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+XML                      5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-org-estudos              17 mins             █████████████████████████   100.00 % 
+org-estudos              17 mins             █████████████████░░░░░░░░   69.59 % 
+intercement-prd          7 mins              ████████░░░░░░░░░░░░░░░░░   30.41 % 
 ```
 
 **Timeline**
@@ -157,7 +158,7 @@ org-estudos              17 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2024 18:36:20 UTC
+ Last Updated on 20/02/2024 18:37:24 UTC
 <!--END_SECTION:waka-->
   
   
