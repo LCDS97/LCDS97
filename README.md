@@ -100,7 +100,7 @@ readme.post("/readme", (req, res) => {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
@@ -143,15 +143,14 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     34 mins             ████████████████████████░   96.78 % 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Apex                     28 mins             █████████████████████████   99.95 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-servicecloud-salesforce  19 mins             ██████████████░░░░░░░░░░░   55.11 % 
-intercement-prd          7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-carrefour-homol          4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-atento-prd               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-vli-uat                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+servicecloud-salesforce  19 mins             ██████████████████░░░░░░░   70.23 % 
+carrefour-homol          4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+atento-prd               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+vli-uat                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 
 **Timeline**
@@ -159,7 +158,7 @@ vli-uat                  0 secs              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2024 18:36:37 UTC
+ Last Updated on 27/02/2024 18:38:47 UTC
 <!--END_SECTION:waka-->
   
   
