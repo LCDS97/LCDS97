@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C124%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -143,13 +143,14 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     20 mins             █████████████████████████   99.93 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Apex                     24 mins             █████████████████████████   99.94 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-servicecloud-salesforce  19 mins             ████████████████████████░   95.46 % 
-vli-uat                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-atento-salesforce        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+servicecloud-salesforce  19 mins             ████████████████████░░░░░   78.38 % 
+db-diagnostics-hml       4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+vli-uat                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+atento-salesforce        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 
 **Timeline**
@@ -157,7 +158,7 @@ atento-salesforce        0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2024 18:36:48 UTC
+ Last Updated on 29/02/2024 18:36:52 UTC
 <!--END_SECTION:waka-->
   
   
