@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -143,11 +143,11 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     10 mins             █████████████████████████   100.00 % 
+Apex                     22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-carrefour-homol          7 mins              ██████████████████░░░░░░░   73.86 % 
-nexa-prd                 2 mins              ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+carrefour-homol          20 mins             ██████████████████████░░░   87.78 % 
+nexa-prd                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 ```
 
 **Timeline**
@@ -155,7 +155,7 @@ nexa-prd                 2 mins              ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2024 18:36:44 UTC
+ Last Updated on 14/03/2024 18:36:47 UTC
 <!--END_SECTION:waka-->
   
   
