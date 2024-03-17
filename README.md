@@ -108,8 +108,6 @@ readme.post("/readme", (req, res) => {
 
 > 📦 299.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -158,7 +156,7 @@ org-estudos              4 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2024 18:38:40 UTC
+ Last Updated on 17/03/2024 18:37:26 UTC
 <!--END_SECTION:waka-->
   
   
