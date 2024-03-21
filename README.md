@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -106,7 +106,7 @@ readme.post("/readme", (req, res) => {
 
 **🐱 My GitHub Data** 
 
-> 📦 299.0 kB Used in GitHub's Storage 
+> 📦 299.1 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2024
  > 
@@ -143,15 +143,17 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-XML                      25 mins             ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-Apex                     24 mins             ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-Other                    23 mins             ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-HTML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Apex                     28 mins             ████████░░░░░░░░░░░░░░░░░   31.92 % 
+XML                      25 mins             ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+Other                    23 mins             ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+HTML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 
 🐱‍💻 Projects: 
-carrefour-homol          46 mins             ██████████████░░░░░░░░░░░   54.77 % 
-everymind-sandbox        21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-org-estudos              16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+carrefour-homol          34 mins             ██████████░░░░░░░░░░░░░░░   38.82 % 
+everymind-sandbox        21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+org-estudos              16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+atento-prd               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+intercement-prd          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 ```
 
 **Timeline**
@@ -159,7 +161,7 @@ org-estudos              16 mins             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2024 18:37:13 UTC
+ Last Updated on 21/03/2024 18:36:45 UTC
 <!--END_SECTION:waka-->
   
   
