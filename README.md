@@ -108,8 +108,6 @@ readme.post("/readme", (req, res) => {
 
 > 📦 299.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -143,12 +141,10 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     17 mins             █████████████████████████   100.00 % 
+Apex                     2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-atento-prd               9 mins              █████████████░░░░░░░░░░░░   53.19 % 
-intercement-prd          5 mins              ████████░░░░░░░░░░░░░░░░░   33.01 % 
-Nexa                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Nexa                     2 mins              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -156,7 +152,7 @@ Nexa                     2 mins              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2024 18:37:15 UTC
+ Last Updated on 28/03/2024 18:37:41 UTC
 <!--END_SECTION:waka-->
   
   
