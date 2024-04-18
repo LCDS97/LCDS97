@@ -110,7 +110,7 @@ readme.post("/readme", (req, res) => {
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 22 Private Repositories 
  > 
@@ -159,7 +159,7 @@ spc-hml                  1 min               ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2024 18:37:25 UTC
+ Last Updated on 18/04/2024 18:36:44 UTC
 <!--END_SECTION:waka-->
   
   
