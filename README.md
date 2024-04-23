@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C130%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C133%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -106,7 +106,7 @@ readme.post("/readme", (req, res) => {
 
 **🐱 My GitHub Data** 
 
-> 📦 299.1 kB Used in GitHub's Storage 
+> 📦 299.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -141,16 +141,12 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     1 hr 25 mins        ███████████████████░░░░░░   74.73 % 
-HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-PowerShell               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Apex                     35 mins             ████████████████████░░░░░   80.65 % 
+HTML                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
 
 🐱‍💻 Projects: 
-nexa-salesforce          1 hr 3 mins         ██████████████░░░░░░░░░░░   55.48 % 
-carrefour-homol          39 mins             █████████░░░░░░░░░░░░░░░░   34.84 % 
-assai-prd                11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+carrefour-homol          35 mins             ████████████████████░░░░░   80.65 % 
+assai-prd                8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
 ```
 
 **Timeline**
@@ -158,7 +154,7 @@ assai-prd                11 mins             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2024 18:36:47 UTC
+ Last Updated on 23/04/2024 18:36:38 UTC
 <!--END_SECTION:waka-->
   
   
