@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C133%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C133%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -106,9 +106,7 @@ readme.post("/readme", (req, res) => {
 
 **🐱 My GitHub Data** 
 
-> 📦 299.2 kB Used in GitHub's Storage 
- > 
-> 🏆 2 Contributions in the Year 2024
+> 📦 299.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -143,13 +141,15 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-XML                      2 hrs 2 mins        █████████████████░░░░░░░░   66.49 % 
-Apex                     1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   33.51 % 
+XML                      2 hrs 4 mins        ████████████████░░░░░░░░░   64.08 % 
+Apex                     1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   33.00 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🐱‍💻 Projects: 
-atento-fullcopy          1 hr 46 mins        ██████████████░░░░░░░░░░░   57.58 % 
-carrefour-homol          53 mins             ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-carrefour-dev02          24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+atento-fullcopy          1 hr 46 mins        ██████████████░░░░░░░░░░░   54.79 % 
+carrefour-homol          53 mins             ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+carrefour-dev02          24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+nexa-prd                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 ```
 
 **Timeline**
@@ -157,7 +157,7 @@ carrefour-dev02          24 mins             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2024 18:36:33 UTC
+ Last Updated on 25/04/2024 18:37:02 UTC
 <!--END_SECTION:waka-->
   
   
