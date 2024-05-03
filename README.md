@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -107,6 +107,8 @@ readme.post("/readme", (req, res) => {
 **🐱 My GitHub Data** 
 
 > 📦 299.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -141,17 +143,12 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     58 mins             ███████████░░░░░░░░░░░░░░   43.04 % 
-HTML                     52 mins             ██████████░░░░░░░░░░░░░░░   38.49 % 
-Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Visualforce              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+HTML                     52 mins             █████████████████████████   99.97 % 
+Visualforce              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-assai-prd                53 mins             ██████████░░░░░░░░░░░░░░░   39.41 % 
-carrefour-homol          40 mins             ████████░░░░░░░░░░░░░░░░░   30.03 % 
-carrefour-dev02          36 mins             ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-atento-fullcopy          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+assai-prd                52 mins             █████████████████████████   99.97 % 
+atento-fullcopy          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **Timeline**
@@ -159,7 +156,7 @@ atento-fullcopy          4 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2024 18:37:39 UTC
+ Last Updated on 03/05/2024 18:38:06 UTC
 <!--END_SECTION:waka-->
   
   
