@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C137%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -141,12 +141,12 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     52 mins             ████████████████████████░   95.99 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+HTML                     27 mins             ███████████████████████░░   92.66 % 
+XML                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 🐱‍💻 Projects: 
-assai-prd                52 mins             ████████████████████████░   95.99 % 
-atento-fullcopy          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+assai-prd                27 mins             ███████████████████████░░   92.66 % 
+atento-fullcopy          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 ```
 
 **Timeline**
@@ -154,7 +154,7 @@ atento-fullcopy          2 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2024 18:37:16 UTC
+ Last Updated on 06/05/2024 18:37:30 UTC
 <!--END_SECTION:waka-->
   
   
