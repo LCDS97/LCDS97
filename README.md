@@ -98,7 +98,7 @@ readme.post("/readme", (req, res) => {
   <summary><img src="https://media.giphy.com/media/3orieJRHB5DJjrVmqk/giphy.gif" width="50" /> <i>📈📊 Minhas métricas no 𝙶𝚒𝚝𝙷𝚞𝚋 📊📈</i> <img src="graph-invert.gif" width="50" /></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C139%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C140%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -143,14 +143,16 @@ Sunday                   320 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Apex                     1 hr 27 mins        █████████████████░░░░░░░░   66.42 % 
-Other                    34 mins             ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-XML                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Apex                     1 hr 51 mins        ███████████░░░░░░░░░░░░░░   43.05 % 
+XML                      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   41.53 % 
+Other                    39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Visualforce              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-carrefour-dev02          1 hr 12 mins        ██████████████░░░░░░░░░░░   54.50 % 
-mastersense-prd          57 mins             ███████████░░░░░░░░░░░░░░   43.86 % 
-atento-fullcopy          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+atento-fullcopy          1 hr 50 mins        ███████████░░░░░░░░░░░░░░   42.62 % 
+carrefour-dev02          1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+mastersense-prd          57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+carrefour-homol          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 
 **Timeline**
@@ -158,7 +160,7 @@ atento-fullcopy          2 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCDS97/LCDS97/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2024 18:38:25 UTC
+ Last Updated on 09/05/2024 18:36:39 UTC
 <!--END_SECTION:waka-->
   
   
