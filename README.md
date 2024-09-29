@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" width ="80"/>
 </div>
 
-<div align ="center"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&duration=4500&background=25E4FF5F&center=true&vCenter=true&lines=Salesforce+Technical+Specialist;in+HCL"></div>
+<div align ="center"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&duration=4500&background=25E4FF5F&center=true&vCenter=true&lines=SALESFORCE+TECHNICAL+SPECIALIST;in+HCL"></div>
 
 ## ↪️ __Linguagens__ e __Ferramentas__   ➡️🔄<font size=1> _No momento estudo e uso_</font><font size=4> ⤵️</font>
 
